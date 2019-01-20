@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTReloadCommand.h

@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTMaskedViewManager.m \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTMaskedViewManager.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/terencechan/Documents/ReactCalculator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTMaskedView.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Views/RCTView.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/terencechan/Documents/ReactCalculator/node_modules/react-native/React/Base/RCTRootView.h

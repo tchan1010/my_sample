@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>EB6DF50C-E3EB-4AC6-8DC5-53BB12C0F825</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB6DF50C-E3EB-4AC6-8DC5-53BB12C0F825.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568667036.17009497</real>
+			<key>timeStoppedRecording</key>
+			<real>568667038.18018305</real>
+			<key>title</key>
+			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>EB6DF50C-E3EB-4AC6-8DC5-53BB12C0F825</string>
+		</dict>
+		<key>FC8EABCD-7658-48D2-B0BA-5C306C0D8C32</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC8EABCD-7658-48D2-B0BA-5C306C0D8C32.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568666880.35337603</real>
+			<key>timeStoppedRecording</key>
+			<real>568666882.32513404</real>
+			<key>title</key>
+			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FC8EABCD-7658-48D2-B0BA-5C306C0D8C32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

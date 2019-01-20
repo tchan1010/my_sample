@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/60b944f4feb11e7a151e8743abcde1d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40d6c4c3eaba2925af16820d77db8dc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f898fe559f166d1d673dc328d648a4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4697f83a59870bf53b3a84adf9dfc973/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d67a3372ab8478234b6604b970221dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0189a89afe40ed238aa7cd1dfdc41f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ad41ba551f9b027d27a45e4a5bbf779/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cbda7a573622ac6725197d20944f950/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76610aceaf16340dc4f3cb5452a792d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b84eea56d9db4b76d946e9e5b3464a4d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f528b77bec09e46589c5a859daf8d219/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5a418727e1cb5d0cdd7b611a40edff02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c0b2cc96aeb8fcbf26a805749db1f679/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7a2be42f34b23666725598da61eccf5e/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2e1b733cd99888d3c905f63f6081dacd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a2b3cbaa95d2de079f7e8187b6c761a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/681f6de70fe88d5521f8192bee4a4ed0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68a274a661768a02315683c4b479a28b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b89fe52dec96c0e7c37fc91aee6f5b13/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c0b2cc96aeb8fcbf26a805749db1f679/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c0b2cc96aeb8fcbf26a805749db1f679/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7a2be42f34b23666725598da61eccf5e/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7a2be42f34b23666725598da61eccf5e/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.reactcalculator.MainActivity
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/15580fdabb98ba50b91defef55b2011d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/60b944f4feb11e7a151e8743abcde1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/60b944f4feb11e7a151e8743abcde1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40d6c4c3eaba2925af16820d77db8dc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40d6c4c3eaba2925af16820d77db8dc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f898fe559f166d1d673dc328d648a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f898fe559f166d1d673dc328d648a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4697f83a59870bf53b3a84adf9dfc973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4697f83a59870bf53b3a84adf9dfc973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d67a3372ab8478234b6604b970221dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d67a3372ab8478234b6604b970221dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0189a89afe40ed238aa7cd1dfdc41f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0189a89afe40ed238aa7cd1dfdc41f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ad41ba551f9b027d27a45e4a5bbf779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ad41ba551f9b027d27a45e4a5bbf779/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cbda7a573622ac6725197d20944f950/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cbda7a573622ac6725197d20944f950/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76610aceaf16340dc4f3cb5452a792d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76610aceaf16340dc4f3cb5452a792d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b84eea56d9db4b76d946e9e5b3464a4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b84eea56d9db4b76d946e9e5b3464a4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f528b77bec09e46589c5a859daf8d219/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f528b77bec09e46589c5a859daf8d219/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5a418727e1cb5d0cdd7b611a40edff02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5a418727e1cb5d0cdd7b611a40edff02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c0b2cc96aeb8fcbf26a805749db1f679/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/c0b2cc96aeb8fcbf26a805749db1f679/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2e1b733cd99888d3c905f63f6081dacd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2e1b733cd99888d3c905f63f6081dacd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a2b3cbaa95d2de079f7e8187b6c761a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a2b3cbaa95d2de079f7e8187b6c761a4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/681f6de70fe88d5521f8192bee4a4ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/681f6de70fe88d5521f8192bee4a4ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68a274a661768a02315683c4b479a28b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68a274a661768a02315683c4b479a28b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b89fe52dec96c0e7c37fc91aee6f5b13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/terencechan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b89fe52dec96c0e7c37fc91aee6f5b13/AndroidManifest.xml:20:5-44
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/terencechan/Documents/ReactCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
