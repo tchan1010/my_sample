@@ -35,7 +35,7 @@
 			<key>uniqueIdentifier</key>
 			<string>14AC0B6F-C0A7-4144-BFCC-107FF25B844C</string>
 		</dict>
-		<key>7DF4958C-22AD-4743-9FC2-C97BF228EC3F</key>
+		<key>D24D08F8-A82F-4D45-8F55-2DEEFE5FEC0B</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7DF4958C-22AD-4743-9FC2-C97BF228EC3F.xcactivitylog</string>
+			<string>D24D08F8-A82F-4D45-8F55-2DEEFE5FEC0B.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>569274475.57890701</real>
+			<real>569660221.41384494</real>
 			<key>timeStoppedRecording</key>
-			<real>569274489.48083901</real>
+			<real>569660337.36076105</real>
 			<key>title</key>
 			<string>Building project ReactCalculator with scheme ReactCalculator and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>7DF4958C-22AD-4743-9FC2-C97BF228EC3F</string>
+			<string>D24D08F8-A82F-4D45-8F55-2DEEFE5FEC0B</string>
 		</dict>
 	</dict>
 </dict>

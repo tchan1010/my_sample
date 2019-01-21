@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/terencechan/Reacts/ReactCalculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/terencechan/Reacts/ReactCalculator/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/terencechan/Reacts/ReactCalculator/my_sample/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/terencechan/Reacts/ReactCalculator/my_sample/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
