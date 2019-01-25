@@ -30,7 +30,7 @@ var Style = StyleSheet.create({
     },
 
     displayContainer: {
-        flex: 2,
+        flex: 1,
         backgroundColor: 'gray',
         justifyContent: 'center'
     },
@@ -46,6 +46,11 @@ var Style = StyleSheet.create({
     inputContainer: {
         flex: 8,
         backgroundColor: '#3E606F'
+    },
+
+    blankContainer: {
+        flex: 1,
+        backgroundColor: 'black'
     },
 
     inputButton: {

@@ -37,11 +37,15 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={Style.rootContainer}>
+        <View style={Style.blankContainer}>
+        </View>
         <View style={Style.displayContainer}>
               <Text style={Style.displayText}>{this._composeOutput()}</Text>
         </View>
         <View style={Style.inputContainer}>
              {this._renderInputButtons()}
+        </View>
+        <View style={Style.blankContainer}>
         </View>
       </View>
     );
@@ -158,16 +162,6 @@ export default class App extends Component<Props> {
               inputValue = parseFloat(str)
            }
         }
-	/*
-        else if (this.state.base == 0.1) {
-           inputValue = parseFloat(this.state.inputValue + '.' + num)
-           this.setState( { base : this.state.base / 10.0 })
-        }
-        else {
-           inputValue = parseFloat(String(this.state.inputValue)  + num)
-           this.setState( { base : this.state.base / 10.0 })
-        }
-        */
         this.setState({ inputValue: inputValue })
      }
      _handleStringInput(str) {
@@ -242,76 +236,6 @@ export default class App extends Component<Props> {
                   });
                 }
         }
-        /*
-        switch (str) {
-            case '.': 
-                if (this.state.base < 10) {
-                   alert("Decimal point pressed already")
-                }
-                else {
-                   this.setState( { base : 0.1 } )
-                  alert("*** base is: " + this.state.base)
-                }
-                break;
-            case '/':
-            case '*':
-            case '+':
-            case '-':
-            case '%':
-                if (this.state.selectedSymbol != null) {
-                   alert("Operator has been entered") 
-                }
-                else {
-                   this.setState({
-                      selectedSymbol: str,
-                      previousInputValue: this.state.inputValue,
-                      inputValue: 0,
-                      base: 10,
-                      sign: 1
-                  });
-                }
-                break;
-            case 'AC':
-                this.setState({
-                    selectedSymbol: null,
-                    previousInputValue: 0,
-                    inputValue: 0,
-                    base: 10,
-                    sign: 1
-                });
-                break;
-            case '+/-':
-                this.setState({
-                   inputValue : -this.state.inputValue,
-                   sign : this.state.sign * -1
-                 });
-                 break;
-            case 'BP':
-                  let str = String(this.state.inputValue * this.state.sign)
-                  if (str.length > 1) {
-                     let val = parseFloat(str.substr(0,str.length-1)) * this.state.sign
-                     let base = 10
-                     if (String(val).indexOf(".") != -1) {
-                         base = 0.1
-                     }
-                     this.setState({
-                          inputValue : val,
-                          base : base 
-                     });
-                  }
-                  else {
-                     this.setState({
-                          inputValue : 0,
-                          base : 10, 
-                          sign : 1
-                     });
-                  }
-                 break;
-            case '=':
-                this._evalEqual()
-                break;
-        }
-        */
     }
     _evalEqual() {
                 let symbol = this.state.selectedSymbol,
